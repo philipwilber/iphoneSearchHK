@@ -1,8 +1,8 @@
 # iphoneSearchHK
 Help to handle iReserve in HK apple stores
 
-MN482ZP/A	7+	128	黑
-MN492ZP/A	7+	128	银
+MN482ZP/A	7+	128	黑<br/>
+MN492ZP/A	7+	128	银<br/>
 MN4A2ZP/A	7+	128	金
 MN4C2ZP/A	7+	128	玫
 MN4D2ZP/A	7+	128	亮
